@@ -13,6 +13,7 @@ int main()
   cout<<endl;
   string bacon = input();
   print(bacon);
+  //This is for a test
 }
 
 void print(string &message)
